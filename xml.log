@@ -1,0 +1,99 @@
+2025-06-01 17:29:58,917 - INFO - Logging initialized
+2025-06-01 17:29:58,917 - INFO - Configuration loaded. Input folder: C:\Users\user\PycharmProjects\PythonProject4\Overviews, Output folder: C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput, File format: xml
+2025-06-01 17:29:58,918 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml
+2025-06-01 17:30:00,224 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\01EWSignaller.xaml
+2025-06-01 17:30:00,224 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml
+2025-06-01 17:30:01,192 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\02EWSignaller.xaml
+2025-06-01 17:30:01,651 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:30:02,089 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:36:24,469 - INFO - Logging initialized
+2025-06-01 17:36:24,491 - INFO - Listening for UDP events on 127.0.0.1:5005...
+2025-06-01 17:36:24,491 - INFO - Configuration loaded. Input folder: C:\Users\user\PycharmProjects\PythonProject4\Overviews, Output folder: C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput, File format: xml
+2025-06-01 17:36:24,492 - INFO - Sent event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 17:36:24,492 - INFO - Received event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 17:36:24,494 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml
+2025-06-01 17:36:25,663 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\01EWSignaller.xaml
+2025-06-01 17:36:25,663 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml
+2025-06-01 17:36:26,405 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\02EWSignaller.xaml
+2025-06-01 17:36:26,523 - INFO - Sent event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 17:36:26,523 - INFO - Received event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 17:36:26,870 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:36:27,309 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:37:51,174 - INFO - Logging initialized
+2025-06-01 17:37:51,235 - INFO - Listening for UDP events on 127.0.0.1:5005...
+2025-06-01 17:37:51,245 - INFO - Configuration loaded. Input folder: C:\Users\user\PycharmProjects\PythonProject4\Overviews, Output folder: C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput, File format: xml
+2025-06-01 17:37:51,246 - INFO - Received event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 17:37:51,246 - INFO - Sent event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 17:37:51,247 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml
+2025-06-01 17:37:51,247 - INFO -  Success event detected.
+2025-06-01 17:37:52,787 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\01EWSignaller.xaml
+2025-06-01 17:37:52,788 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml
+2025-06-01 17:37:53,355 - INFO - Sent event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 17:37:53,355 - INFO - Received event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 17:37:53,509 - WARNING -  Failure event detected.
+2025-06-01 17:37:54,304 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\02EWSignaller.xaml
+2025-06-01 17:37:55,301 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:37:55,500 - INFO - Received event: CMD_EXEC_OK: Command C executed successfully
+2025-06-01 17:37:55,501 - INFO -  Success event detected.
+2025-06-01 17:37:55,505 - INFO - Sent event: CMD_EXEC_OK: Command C executed successfully
+2025-06-01 17:37:56,247 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:40:50,125 - INFO - Logging initialized
+2025-06-01 17:40:50,142 - INFO - Listening for UDP events on 127.0.0.1:5005...
+2025-06-01 17:40:50,142 - INFO - Configuration loaded. Input folder: C:\Users\user\PycharmProjects\PythonProject4\Overviews, Output folder: C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput, File format: xml
+2025-06-01 17:40:50,143 - INFO - Sent event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 17:40:50,143 - INFO - Received event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 17:40:50,144 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml
+2025-06-01 17:40:50,145 - INFO -  Success event detected.
+2025-06-01 17:40:50,889 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\01EWSignaller.xaml
+2025-06-01 17:40:50,889 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml
+2025-06-01 17:40:51,575 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\02EWSignaller.xaml
+2025-06-01 17:40:51,961 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:40:52,188 - INFO - Received event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 17:40:52,188 - INFO - Sent event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 17:40:52,200 - WARNING -  Failure event detected.
+2025-06-01 17:40:52,400 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:44:35,666 - INFO - Logging initialized
+2025-06-01 17:44:35,682 - INFO - Listening for UDP events on 127.0.0.1:5005...
+2025-06-01 17:44:35,682 - INFO - Configuration loaded. Input folder: C:\Users\user\PycharmProjects\PythonProject4\Overviews, Output folder: C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput, File format: xml
+2025-06-01 17:44:35,683 - INFO - Received event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 17:44:35,683 - INFO - Sent event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 17:44:35,684 - INFO -  Success event detected.
+2025-06-01 17:44:35,684 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml
+2025-06-01 17:44:36,440 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\01EWSignaller.xaml
+2025-06-01 17:44:36,440 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml
+2025-06-01 17:44:37,095 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\02EWSignaller.xaml
+2025-06-01 17:44:37,494 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 17:44:37,775 - INFO - Sent event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 17:44:37,775 - INFO - Received event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 17:44:37,792 - WARNING -  Failure event detected.
+2025-06-01 17:44:37,966 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 18:24:52,219 - INFO - Logging initialized
+2025-06-01 18:24:52,237 - INFO - Listening for UDP events on 127.0.0.1:5005...
+2025-06-01 18:24:52,237 - INFO - Configuration loaded. Input folder: C:\Users\user\PycharmProjects\PythonProject4\Overviews, Output folder: C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput, File format: xml
+2025-06-01 18:24:52,238 - INFO - Sent event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 18:24:52,238 - INFO - Received event: CMD_EXEC_OK: Command A executed successfully
+2025-06-01 18:24:52,239 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml
+2025-06-01 18:24:52,239 - INFO -  Success event detected.
+2025-06-01 18:24:52,967 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\01EWSignaller.xaml
+2025-06-01 18:24:52,968 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml
+2025-06-01 18:24:53,640 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\02EWSignaller.xaml
+2025-06-01 18:24:54,027 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-01 18:24:54,292 - INFO - Sent event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 18:24:54,293 - INFO - Received event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-01 18:24:54,310 - WARNING -  Failure event detected.
+2025-06-01 18:24:54,467 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-02 18:05:23,468 - INFO - Logging initialized
+2025-06-02 18:05:23,510 - INFO - Listening for UDP events on 127.0.0.1:5005...
+2025-06-02 18:05:23,525 - INFO - Configuration loaded. Input folder: C:\Users\user\PycharmProjects\PythonProject4\Overviews, Output folder: C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput, File format: xml
+2025-06-02 18:05:23,527 - INFO - Received event: CMD_EXEC_OK: Command A executed successfully
+2025-06-02 18:05:23,527 - INFO - Sent event: CMD_EXEC_OK: Command A executed successfully
+2025-06-02 18:05:23,557 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml
+2025-06-02 18:05:23,608 - INFO -  Success event detected.
+2025-06-02 18:05:25,364 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\01EWSignaller.xaml
+2025-06-02 18:05:25,365 - INFO - Processing file: C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml
+2025-06-02 18:05:25,682 - INFO - Received event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-02 18:05:25,682 - INFO - Sent event: CMD_EXEC_FAIL: Command B failed due to timeout
+2025-06-02 18:05:25,692 - WARNING -  Failure event detected.
+2025-06-02 18:05:26,425 - INFO - File saved to C:\Users\user\PycharmProjects\PythonProject4\OverviewsOutput\02EWSignaller.xaml
+2025-06-02 18:05:26,957 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\01EWSignaller.xml: junk after document element: line 2, column 0
+2025-06-02 18:05:27,507 - ERROR - Error during validation for C:\Users\user\PycharmProjects\PythonProject4\Overviews\02EWSignaller.xml: junk after document element: line 2, column 0
